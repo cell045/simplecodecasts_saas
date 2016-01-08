@@ -16,6 +16,8 @@ gem 'uglifier', '1.3.0'
 gem 'coffee-rails', '4.0.1'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
+# Add Font Awesome
+gem 'font-awesome-sass', '4.2.0'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Add Bootsrap library
